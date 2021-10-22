@@ -1,0 +1,73 @@
+.navbar{
+    height: 50px;
+    background-color: gray;
+    overflow: hidden;
+    position: relative;
+    opacity: 0.7;
+    
+}
+.navbar ul{
+    float: left;
+    position: relative;
+    left: 83%;
+    
+}
+.navbar li{
+    display: block;
+    float: left;
+    position: relative;
+    right: 50%;
+}
+
+.main{
+    background-image: url('../assets/Software3.png');
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    margin:0 10px 0 10px;
+    
+}
+h1{
+    text-transform:capitalize;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 0 0 2px green, 0 0 5px gray;
+    padding-top: 15%;
+
+
+}
+.header{
+    height: 60px;
+ 
+ 
+}
+.footer{
+    height: 35px;
+    background-color: gray;
+    text-align: right;
+    padding:5px 0 5px 0;
+    opacity: 0.9;
+
+}
+a{
+    color:whitesmoke;
+    text-decoration: none;
+
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    background-image: url('../assets/image3.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+*{
+  font-family: 'Rock Salt', cursive;
+
+}
